@@ -1,0 +1,16 @@
+-Insights-
+
+volatility : (one of below)
+    garman klass - done
+    Rogers and Satchell - done 
+    Yang and Zhang - done
+
+Returns : (all)
+    Year to data - done
+    1 year return - done
+    1 month return - done
+
+Sharpe ratio 
+
+max draw down
+current draw down
